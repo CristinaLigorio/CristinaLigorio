@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristina Ligorio</h1>
 <h3 align="center">A passionate Business Analyst</h3>
 
-- 💬 Ask me about **Python, SQL, HTML, CSS**
+- 💬 Ask me about **Python, SQL, Tableau, Looker, PowerBI, HTML**
 
 - 📫 How to reach me **cristina.ligorio@outlook.it**
 
